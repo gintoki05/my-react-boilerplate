@@ -1,3 +1,5 @@
+Bismillah, ini boilerplate buatan sendiri. monggo
+
 How to install :
 run: yarn install
 
