@@ -1,13 +1,9 @@
-How to install :
-run: yarn install
+Bismillah, ini boilerplate buatan sendiri. monggo
 
-Start it locally:
-run: yarn run dev-server
+How to install : run: yarn install
 
-Start it server:
-run: yarn run start
+Start it locally: run: yarn run dev-server
 
-Demo:
-https://react-course-expensify-05.herokuapp.com/
+Start it server: run: yarn run start
 
 Created in Palembang, Indonesia
